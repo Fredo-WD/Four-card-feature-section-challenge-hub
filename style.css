@@ -103,7 +103,7 @@ html, body {
 
     .intro {
         grid-column: span 3;
-        margin-bottom: 5rem;
+        margin-bottom: 1rem;
     }
 
     .intro__heading {
@@ -124,7 +124,6 @@ html, body {
 
     .cards {
         margin: 0;
-        margin-top: 1rem;
         min-height: 21vh;
     }
 
